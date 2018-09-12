@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="cereal_box_2.Top" size="0.231900 0.115950"/>
+        <ImageTarget name="cereal_box_2.Right" size="0.115980 0.308978"/>
+        <ImageTarget name="cereal_box_2.Left" size="0.115980 0.308978"/>
+        <ImageTarget name="cereal_box_2.Bottom" size="0.231900 0.115950"/>
+        <ImageTarget name="cereal_box_2.Back" size="0.231900 0.308898"/>
+        <ImageTarget name="cereal_box_2.Front" size="0.231900 0.308898"/>
+        <ImageTarget name="cereal_box.Top" size="0.231900 0.115950"/>
+        <ImageTarget name="cereal_box.Right" size="0.115980 0.308978"/>
+        <ImageTarget name="cereal_box.Left" size="0.115980 0.308978"/>
+        <ImageTarget name="cereal_box.Bottom" size="0.231900 0.115950"/>
+        <ImageTarget name="cereal_box.Back" size="0.231900 0.308898"/>
+        <ImageTarget name="cereal_box.Front" size="0.231900 0.308898"/>
+        <MultiTarget name="cereal_box_2">
+            <Part name="cereal_box_2.Left" translation="-0.11595000326633453 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cereal_box_2.Right" translation="0.11595000326633453 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cereal_box_2.Front" translation="0 0 0.057989999651908875" rotation="AD: 1 0 0 0"/>
+            <Part name="cereal_box_2.Back" translation="0 0 -0.057989999651908875" rotation="AD: 0 1 0 180"/>
+            <Part name="cereal_box_2.Top" translation="0 0.15449999272823334 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cereal_box_2.Bottom" translation="0 -0.15449999272823334 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="cereal_box">
+            <Part name="cereal_box.Left" translation="-0.11595000326633453 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cereal_box.Right" translation="0.11595000326633453 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cereal_box.Front" translation="0 0 0.057989999651908875" rotation="AD: 1 0 0 0"/>
+            <Part name="cereal_box.Back" translation="0 0 -0.057989999651908875" rotation="AD: 0 1 0 180"/>
+            <Part name="cereal_box.Top" translation="0 0.15449999272823334 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cereal_box.Bottom" translation="0 -0.15449999272823334 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
