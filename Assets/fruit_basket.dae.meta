@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: bf0f396f62bf1a14cb6c7e22650ab0f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Basket_-_Dish
+    100002: Fruit_-_Banana
+    100004: Fruit_-_Banana 1
+    100006: Fruit_-_Green_Apple
+    100008: Fruit_-_Orange
+    100010: Fruit_-_Orange 1
+    100012: Fruit_-_Red_Apple
+    100014: Fruit_-_Red_Apple 1
+    100016: //RootNode
+    100018: ID104
+    100020: ID104 1
+    100022: ID112
+    100024: ID112 1
+    100026: ID128
+    100028: ID134
+    100030: ID140
+    100032: ID28
+    100034: ID38
+    100036: ID44
+    100038: ID60
+    100040: ID66
+    100042: ID72
+    100044: ID86
+    100046: ID86 1
+    100048: instance_0
+    100050: instance_1
+    100052: instance_2
+    100054: instance_3
+    100056: instance_4
+    100058: instance_5
+    100060: instance_6
+    100062: instance_7
+    100064: skp_camera_Last_Saved_SketchUp_View
+    400000: Basket_-_Dish
+    400002: Fruit_-_Banana
+    400004: Fruit_-_Banana 1
+    400006: Fruit_-_Green_Apple
+    400008: Fruit_-_Orange
+    400010: Fruit_-_Orange 1
+    400012: Fruit_-_Red_Apple
+    400014: Fruit_-_Red_Apple 1
+    400016: //RootNode
+    400018: ID104
+    400020: ID104 1
+    400022: ID112
+    400024: ID112 1
+    400026: ID128
+    400028: ID134
+    400030: ID140
+    400032: ID28
+    400034: ID38
+    400036: ID44
+    400038: ID60
+    400040: ID66
+    400042: ID72
+    400044: ID86
+    400046: ID86 1
+    400048: instance_0
+    400050: instance_1
+    400052: instance_2
+    400054: instance_3
+    400056: instance_4
+    400058: instance_5
+    400060: instance_6
+    400062: instance_7
+    400064: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Wicker_Rough
+    2100002: Fruit_-_Red_Apple_-_Body
+    2100004: material
+    2100006: Fruit_-_Apple_-_Stem
+    2100008: Fruit_-_Green_Apple_Body
+    2100010: Fruit_-_Orange_-_Body
+    2100012: Fruit_-_Orange_-_Stem
+    2100014: Fruit_-_Banana_-_Body
+    2100016: Fruit_-_Banana_-_Stem
+    2300000: Basket_-_Dish
+    2300002: Fruit_-_Banana
+    2300004: Fruit_-_Banana 1
+    2300006: Fruit_-_Green_Apple
+    2300008: Fruit_-_Orange
+    2300010: Fruit_-_Orange 1
+    2300012: Fruit_-_Red_Apple
+    2300014: Fruit_-_Red_Apple 1
+    2300016: ID104
+    2300018: ID104 1
+    2300020: ID112
+    2300022: ID112 1
+    2300024: ID128
+    2300026: ID134
+    2300028: ID28
+    2300030: ID38
+    2300032: ID60
+    2300034: ID66
+    2300036: ID86
+    2300038: ID86 1
+    3300000: Basket_-_Dish
+    3300002: Fruit_-_Banana
+    3300004: Fruit_-_Banana 1
+    3300006: Fruit_-_Green_Apple
+    3300008: Fruit_-_Orange
+    3300010: Fruit_-_Orange 1
+    3300012: Fruit_-_Red_Apple
+    3300014: Fruit_-_Red_Apple 1
+    3300016: ID104
+    3300018: ID104 1
+    3300020: ID112
+    3300022: ID112 1
+    3300024: ID128
+    3300026: ID134
+    3300028: ID28
+    3300030: ID38
+    3300032: ID60
+    3300034: ID66
+    3300036: ID86
+    3300038: ID86 1
+    4300000: Basket_-_Dish
+    4300002: Fruit_-_Red_Apple
+    4300004: ID28
+    4300006: ID38
+    4300008: Fruit_-_Green_Apple
+    4300010: ID60
+    4300012: ID66
+    4300014: Fruit_-_Orange
+    4300016: ID86
+    4300018: Fruit_-_Banana
+    4300020: ID104
+    4300022: ID112
+    4300024: Fruit_-_Red_Apple
+    4300026: ID128
+    4300028: ID134
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

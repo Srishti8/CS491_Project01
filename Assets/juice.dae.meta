@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: a6ac3cdaf3883f64f9b7b005f0c05014
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bandeja_couro
+    100002: Bandeja_Ethro_-_ARTEFACTO
+    100004: Component_26
+    100006: Component_27
+    100008: Component_27 1
+    100010: Component_28
+    100012: ID103
+    100014: ID103 1
+    100016: ID111
+    100018: ID111 1
+    100020: ID129
+    100022: ID129 1
+    100024: ID135
+    100026: ID135 1
+    100028: ID151
+    100030: ID151 1
+    100032: ID166
+    100034: ID166 1
+    100036: ID172
+    100038: ID172 1
+    100040: ID178
+    100042: ID178 1
+    100044: ID184
+    100046: ID184 1
+    100048: ID190
+    100050: ID190 1
+    100052: ID205
+    100054: ID213
+    100056: ID226
+    100058: ID232
+    100060: ID238
+    100062: ID244
+    100064: ID250
+    100066: ID256
+    100068: ID262
+    100070: ID268
+    100072: ID274
+    100074: ID280
+    100076: ID286
+    100078: ID29
+    100080: ID292
+    100082: ID298
+    100084: ID35
+    100086: ID39
+    100088: ID43
+    100090: ID47
+    100092: ID51
+    100094: ID55
+    100096: ID59
+    100098: ID63
+    100100: ID67
+    100102: instance_0
+    100104: instance_1
+    100106: instance_10
+    100108: instance_11
+    100110: instance_2
+    100112: instance_3
+    100114: instance_4
+    100116: instance_5
+    100118: instance_6
+    100120: instance_7
+    100122: instance_7 1
+    100124: instance_8
+    100126: instance_8 1
+    100128: instance_9
+    100130: instance_9 1
+    100132: //RootNode
+    100134: lemon
+    100136: lemon 1
+    100138: Lemonade
+    100140: lemonade
+    100142: Lemonade 1
+    100144: lemonade 1
+    100146: Orange_Juice_Carafe
+    100148: skp_camera_Last_Saved_SketchUp_View
+    100150: straw
+    100152: straw 1
+    400000: bandeja_couro
+    400002: Bandeja_Ethro_-_ARTEFACTO
+    400004: Component_26
+    400006: Component_27
+    400008: Component_27 1
+    400010: Component_28
+    400012: ID103
+    400014: ID103 1
+    400016: ID111
+    400018: ID111 1
+    400020: ID129
+    400022: ID129 1
+    400024: ID135
+    400026: ID135 1
+    400028: ID151
+    400030: ID151 1
+    400032: ID166
+    400034: ID166 1
+    400036: ID172
+    400038: ID172 1
+    400040: ID178
+    400042: ID178 1
+    400044: ID184
+    400046: ID184 1
+    400048: ID190
+    400050: ID190 1
+    400052: ID205
+    400054: ID213
+    400056: ID226
+    400058: ID232
+    400060: ID238
+    400062: ID244
+    400064: ID250
+    400066: ID256
+    400068: ID262
+    400070: ID268
+    400072: ID274
+    400074: ID280
+    400076: ID286
+    400078: ID29
+    400080: ID292
+    400082: ID298
+    400084: ID35
+    400086: ID39
+    400088: ID43
+    400090: ID47
+    400092: ID51
+    400094: ID55
+    400096: ID59
+    400098: ID63
+    400100: ID67
+    400102: instance_0
+    400104: instance_1
+    400106: instance_10
+    400108: instance_11
+    400110: instance_2
+    400112: instance_3
+    400114: instance_4
+    400116: instance_5
+    400118: instance_6
+    400120: instance_7
+    400122: instance_7 1
+    400124: instance_8
+    400126: instance_8 1
+    400128: instance_9
+    400130: instance_9 1
+    400132: //RootNode
+    400134: lemon
+    400136: lemon 1
+    400138: Lemonade
+    400140: lemonade
+    400142: Lemonade 1
+    400144: lemonade 1
+    400146: Orange_Juice_Carafe
+    400148: skp_camera_Last_Saved_SketchUp_View
+    400150: straw
+    400152: straw 1
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: couro_bandeja_artefacto_hjj48d24jjd24d
+    2100002: usarcomobump
+    2100004: pegador_cromado_bandeja_art_s0481hhss54hs22
+    2100006: __Translucent_Glass_Gray_1
+    2100008: __Translucent_Glass_Gold_1
+    2100010: material_21
+    2100012: material
+    2100014: lemon
+    2100016: __Beige_2
+    2100018: __Translucent_Glass_Gray_2
+    2100020: __Translucent_Glass_Gray_3
+    2100022: Material__breakfast_set_mtl_12
+    2100024: Color_C02
+    2300000: Component_26
+    2300002: Component_27
+    2300004: Component_27 1
+    2300006: ID103
+    2300008: ID103 1
+    2300010: ID111
+    2300012: ID111 1
+    2300014: ID129
+    2300016: ID129 1
+    2300018: ID135
+    2300020: ID135 1
+    2300022: ID151
+    2300024: ID151 1
+    2300026: ID166
+    2300028: ID166 1
+    2300030: ID172
+    2300032: ID172 1
+    2300034: ID178
+    2300036: ID178 1
+    2300038: ID184
+    2300040: ID184 1
+    2300042: ID190
+    2300044: ID190 1
+    2300046: ID205
+    2300048: ID213
+    2300050: ID226
+    2300052: ID232
+    2300054: ID238
+    2300056: ID244
+    2300058: ID250
+    2300060: ID256
+    2300062: ID262
+    2300064: ID268
+    2300066: ID274
+    2300068: ID280
+    2300070: ID286
+    2300072: ID292
+    2300074: ID298
+    2300076: lemon
+    2300078: lemon 1
+    2300080: lemonade
+    2300082: lemonade 1
+    2300084: Orange_Juice_Carafe
+    2300086: straw
+    2300088: straw 1
+    3300000: Component_26
+    3300002: Component_27
+    3300004: Component_27 1
+    3300006: ID103
+    3300008: ID103 1
+    3300010: ID111
+    3300012: ID111 1
+    3300014: ID129
+    3300016: ID129 1
+    3300018: ID135
+    3300020: ID135 1
+    3300022: ID151
+    3300024: ID151 1
+    3300026: ID166
+    3300028: ID166 1
+    3300030: ID172
+    3300032: ID172 1
+    3300034: ID178
+    3300036: ID178 1
+    3300038: ID184
+    3300040: ID184 1
+    3300042: ID190
+    3300044: ID190 1
+    3300046: ID205
+    3300048: ID213
+    3300050: ID226
+    3300052: ID232
+    3300054: ID238
+    3300056: ID244
+    3300058: ID250
+    3300060: ID256
+    3300062: ID262
+    3300064: ID268
+    3300066: ID274
+    3300068: ID280
+    3300070: ID286
+    3300072: ID292
+    3300074: ID298
+    3300076: lemon
+    3300078: lemon 1
+    3300080: lemonade
+    3300082: lemonade 1
+    3300084: Orange_Juice_Carafe
+    3300086: straw
+    3300088: straw 1
+    4300000: Component_26
+    4300002: Component_27
+    4300004: lemonade
+    4300006: ID151
+    4300008: ID166
+    4300010: ID172
+    4300012: ID178
+    4300014: ID184
+    4300016: ID190
+    4300018: lemon
+    4300020: ID103
+    4300022: ID111
+    4300024: straw
+    4300026: ID129
+    4300028: ID135
+    4300030: Orange_Juice_Carafe
+    4300032: ID205
+    4300034: ID213
+    4300036: ID226
+    4300038: ID232
+    4300040: ID238
+    4300042: ID244
+    4300044: ID250
+    4300046: ID256
+    4300048: ID262
+    4300050: ID268
+    4300052: ID274
+    4300054: ID280
+    4300056: ID286
+    4300058: ID292
+    4300060: ID298
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
